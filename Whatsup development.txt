@@ -7,3 +7,5 @@ Image
 Video
 
 Group
+
+Hide last seen changes
